@@ -49,6 +49,7 @@ Open the project in Visual Studio 2013
 
 ## How to Play
 
-| 📌 Note |
-|--------|
-| This is inside a box |
+| Player | Move left | Move Right | Move Up | Move Down |
+|------|------|------|------|------|
+| Spceship | ← (Left Arrow) | → (Right Arrow) | ↑ (Up Arrow) | ↓ (Down Arrow) |
+
