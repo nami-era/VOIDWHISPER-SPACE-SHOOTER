@@ -53,3 +53,21 @@ Open the project in Visual Studio 2013
 |------|------|------|------|------|------|
 | Spceship | ← (Left Arrow) | → (Right Arrow) | ↑ (Up Arrow) | ↓ (Down Arrow) | Space| 
 
+## Game Rules
+●  A reverse chase space shooter where the player hunts escaping enemies instead of being chased.
+Features smart AI with dodging, feints, predictive attacks, and dual-axis threats from right and bottom.
+●  Includes an overheating system that limits shooting and movement for strategic gameplay.
+Uses two environments: stable Open Space and chaotic Gravity Zone with distorted movement and physics.
+●  Ends with a Singularity Warden boss fight that manipulates gravity, uses traps, and tests player skill.
+
+## Project Contributors
+
+1. Faizah Meraj
+2. Namira Tabassum
+3. Muhammad Ashraful Hossain
+
+## ScreenShots
+
+![Main Menu](images/menu.png)
+
+![Gameplay](images/gameplay.png)
