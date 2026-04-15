@@ -49,7 +49,7 @@ Open the project in Visual Studio 2013
 
 ## How to Play
 
-| Player | Move left | Move Right | Move Up | Move Down |
+| Player | Move left | Move Right | Move Up | Move Down | Shoot |
 |------|------|------|------|------|
-| Spceship | ← (Left Arrow) | → (Right Arrow) | ↑ (Up Arrow) | ↓ (Down Arrow) |
+| Spceship | ← (Left Arrow) | → (Right Arrow) | ↑ (Up Arrow) | ↓ (Down Arrow) | Space|
 
